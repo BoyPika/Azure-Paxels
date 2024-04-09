@@ -1,3 +1,2 @@
-v1.0.11
+v1.0.0
 
-- Ask minecraft directly for the axe & shovel maps - TheZeus121
