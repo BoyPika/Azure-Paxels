@@ -1,8 +1,8 @@
 {
-	"item.azure-paxels.wooden_paxel": "Holzspitzhaxtsch",
-	"item.azure-paxels.stone_paxel": "Steinspitzhaxtsch",
-	"item.azure-paxels.iron_paxel": "Eisenspitzhaxtsch",
-	"item.azure-paxels.golden_paxel": "Goldspitzhaxtsch",
-	"item.azure-paxels.diamond_paxel": "Diamantspitzhaxtsch",
-	"item.azure-paxels.netherite_paxel": "Netheritspitzhaxtsch"
+	"item.azurepaxels.wooden_paxel": "Holzspitzhaxtsch",
+	"item.azurepaxels.stone_paxel": "Steinspitzhaxtsch",
+	"item.azurepaxels.iron_paxel": "Eisenspitzhaxtsch",
+	"item.azurepaxels.golden_paxel": "Goldspitzhaxtsch",
+	"item.azurepaxels.diamond_paxel": "Diamantspitzhaxtsch",
+	"item.azurepaxels.netherite_paxel": "Netheritspitzhaxtsch"
 }
