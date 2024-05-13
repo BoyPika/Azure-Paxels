@@ -1,8 +1,8 @@
 {
-	"item.azure-paxels.wooden_paxel": "木镐尖斧",
-	"item.azure-paxels.stone_paxel": "石镐尖斧",
-	"item.azure-paxels.iron_paxel": "铁镐尖斧",
-	"item.azure-paxels.golden_paxel": "金镐尖斧",
-	"item.azure-paxels.diamond_paxel": "钻石镐尖斧",
-	"item.azure-paxels.netherite_paxel": "下界合金镐尖斧"
+	"item.azurepaxels.wooden_paxel": "木镐尖斧",
+	"item.azurepaxels.stone_paxel": "石镐尖斧",
+	"item.azurepaxels.iron_paxel": "铁镐尖斧",
+	"item.azurepaxels.golden_paxel": "金镐尖斧",
+	"item.azurepaxels.diamond_paxel": "钻石镐尖斧",
+	"item.azurepaxels.netherite_paxel": "下界合金镐尖斧"
 }
